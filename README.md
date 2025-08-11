@@ -4,7 +4,7 @@
 - 🌱 **Currently mastering:** MERN Stack + Next.js + PostgreSQL  
 - 💬 **Let’s talk about:** ReactJS, NodeJS, ExpressJS, MongoDB, NextJS, PostgreSQL  
 - 📫 **Reach me at:** zamalik2906@gmail.com  
-- ⚡ **Fun fact:** I can debug faster than I brew coffee (and that’s saying something) 😎  
+- ⚡  Transforming complex requirements into scalable, elegant solutions.
 
 ---
 
