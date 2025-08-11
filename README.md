@@ -1,10 +1,10 @@
 <h1 align="center">🚀 Hey there, I'm Zeeshan Ahmed Malik</h1>
-<h3 align="center">💻 Full-Stack MERN Developer | Turning Coffee ☕ into Clean Code</h3>
+<h3 align="center">💻 Full-Stack MERN Developer | Crafting Scalable & Elegant Solutions</h3>
 
-- 🌱 **Currently mastering:** MERN Stack + Next.js + PostgreSQL  
-- 💬 **Let’s talk about:** ReactJS, NodeJS, ExpressJS, MongoDB, NextJS, PostgreSQL  
+- 🌱 **Currently mastering:** MERN Stack · Next.js · PostgreSQL  
+- 💬 **Let’s talk about:** ReactJS · NodeJS · ExpressJS · MongoDB · NextJS · PostgreSQL  
 - 📫 **Reach me at:** zamalik2906@gmail.com  
-- ⚡  Transforming complex requirements into scalable, elegant solutions.
+- 🎯 **Transforming complex requirements into scalable, elegant solutions.**
 
 ---
 
